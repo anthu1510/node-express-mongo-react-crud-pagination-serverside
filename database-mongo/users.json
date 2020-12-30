@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "5fe9bbf9f3569734a81de62e"
+  },
+  "username": "anthu1510",
+  "firstName": "Aravinth",
+  "lastName": "E",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2020-12-28T11:05:29.875Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fec24bf8f384c35c87daab4"
+  },
+  "username": "raja",
+  "firstName": "Raja",
+  "lastName": "R",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2020-12-30T06:57:03.060Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fec4fe5c771d82d70dd8ca3"
+  },
+  "username": "mani123",
+  "firstName": "Mani",
+  "lastName": "M",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2020-12-30T10:01:09.056Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fec50ba0513c31b98a12b44"
+  },
+  "username": "ravi345",
+  "firstName": "Ravi",
+  "lastName": "R",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2020-12-30T10:04:42.036Z"
+  },
+  "__v": 0
+}]
